@@ -95,7 +95,7 @@ label {
 }
 
 /* hide theme credit */
-#footer > div.bottom-footer > div > p > span:nth-child(1) {
+div.bottom-footer > div > p > span:nth-child(1) {
 	display:none;
 }
 
@@ -239,12 +239,12 @@ a.upload-button:hover {
 	.woocommerce-shipping-fields h3,.woocommerce-billing-fields h3 {
 		width:100%;
 	}
-	
+
 	.woocommerce .col2-set,.woocommerce-page .col2-set {
 		width:45%;
 		float:left;
 	}
-	
+
 	.woocommerce-checkout-review-order {
 		width:45%;
 		float:right;
@@ -257,12 +257,12 @@ a.upload-button:hover {
 	table.shop_table .product-thumbnail,table.shop_table td.product-remove,table.shop_table th.product-remove {
 		display:block;
 	}
-	
+
 	/* logo */
 	.top-header img {
 		width:300px;
 	}
-	
+
 	#contact-us > div.section-content > div > div:nth-child(1) {
 		display:none;
 	}
